@@ -1,0 +1,21 @@
+ h3 {
+ 	color: red;
+ 	margin: 0;
+ }
+
+h1 {
+ text-align: center;
+ color: aqua;
+}
+
+p {
+
+	line-height: 2;
+	font-size: 17px;
+}
+
+#Reserv {
+
+	color: yellowgreen
+	font-size: 20px;
+}
